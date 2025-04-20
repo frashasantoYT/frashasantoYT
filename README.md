@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm [Nzomo Francis]
 
-<!--
-**frashasantoYT/frashasantoYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 What I Do:
+- 🚀 CEO & Founder @ [SANTO ISERVICES] – Driving innovation in [Web Application, IOT and Artfiicial intelligence].
+- 💡 Technical Lead with a focus on Python, Native Android Development, Web development.
+- 📚 Advocate for open-source, clean code, and practical solutions.
 
-Here are some ideas to get you started:
+🧠 About Me:
+- 💻 Passionate about Python, Android Development, Linux, cybersecurity, automation, and emerging tech.
+- 🔧 Experienced in backend development, APIs, DevOps, and system architecture.
+- 🌐 Based in [Nairobi, Kenya] – building tools that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect With Me:
+- 🌐 Website: [https://santoiservices.com]
+- 🔗 LinkedIn: [linkedin.com/in/frashasanto]
+- 🐘 Mastodon / Bluesky (optional)
+
+🛠️ Tech & Tools:
+`Python` `Kotlin` `Django` `FastAPI` `Linux` `Docker` `Git` `CI/CD` `PostgreSQL` `MicroPython` `Raspberry Pi` `3D Printing`
+
+📈 Goals:
+- Build robust, scalable tools that make a difference.
+- Mentor new developers and contribute to the open-source ecosystem.
+- Push the boundaries of what tech can do in community and industry.
+
+---
