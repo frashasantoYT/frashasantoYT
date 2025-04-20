@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Nzomo Francis]
+# 👋 Hi, I'm Nzomo Francis
 
 💼 What I Do:
 - 🚀 CEO & Founder @ [SANTO ISERVICES] – Driving innovation in [Web Application, IOT and Artfiicial intelligence].
