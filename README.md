@@ -13,7 +13,7 @@
 📫 Connect With Me:
 - 🌐 Website: [https://santoiservices.com]
 - 🔗 LinkedIn: [linkedin.com/in/frashasanto]
-- 🐘 Mastodon / Bluesky (optional)
+
 
 🛠️ Tech & Tools:
 `Python` `Kotlin` `Django` `FastAPI` `Linux` `Docker` `Git` `CI/CD` `PostgreSQL` `MicroPython` `Raspberry Pi` `3D Printing`
