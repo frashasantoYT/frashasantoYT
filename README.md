@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Nzomo Francis
-
+# 👋 Hi, I'm Santo
 💼 What I Do:
 - 🚀 CEO & Founder @ [SANTO ISERVICES] – Driving innovation in [Web Application, IOT and Artfiicial intelligence].
 - 💡 Technical Lead with a focus on Python, Native Android Development, Web development.
